@@ -62,6 +62,10 @@
       "channel": "#madeira",
       "description": "Madeira PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
     },
+	{
+      "channel": "#meshcore",
+      "description": "MeshCore dedicated topic channel"
+    },
     {
       "channel": "#ping",
       "description": "The Pingbot is a microservice in the MeshCore ecosystem that automatically responds to ping commands on the mesh network, use .ping | !ping | 8ping | 4ping "
@@ -77,6 +81,10 @@
 	{
       "channel": "#porto",
       "description": "Porto PT region channel, https://www.meshcore.pt/en/docs/articles/channels-and-services"
+    },
+	{
+      "channel": "#portugal",
+      "description": "PT nation wide channel"
     },
 	{
       "channel": "#santarem",
